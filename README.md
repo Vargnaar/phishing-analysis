@@ -8,11 +8,15 @@ This repository contains the following:
 
 - `writeups/` directory: This directory contains write-ups of smishing and phishing campaigns that I've received, along with any technical analysis I've done.
 - `contributions/` directory: Submissions from others.
-- `special/`: This is a list of smarty pants' that have helped with my work here.
+- `special thanks`: This is a list of smarty pants' that have helped with my work here.
 
 ## Contributing
 
 I welcome contributions to this repository if you've some interesting insight into the analysis performed herin. If I've missed something or you know more about a given thing, please submit a pull request.
+
+## Special Thanks
+
+@Sq00ky - https://github.com/Sq00ky | https://blog.spookysec.net/
 
 ## License
 
