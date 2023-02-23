@@ -1,6 +1,8 @@
 # # Smishing and Phishing Campaign Analysis
+This is where I store write-ups and technical analysis on smishing and phishing campaigns that I receive.
 
-Welcome to my repository! This is where I store write-ups and technical analysis on smishing and phishing campaigns that I receive.
+#### DISCLAIMER!
+*I do not claim to be an expert in anything, at all*. I barely know what I am doing here. This is a place for me to write my findings as I learn. I am currently studying Offensive Security's OSCP and WEB-200 materials and am using this research as a means to learn/stretch and have fun. Also, my words are my own and have nothing to do with my day job. 
 
 ## Contents
 
@@ -16,7 +18,9 @@ I welcome contributions to this repository if you've some interesting insight in
 
 ## Special Thanks
 
-@Sq00ky - https://github.com/Sq00ky | https://blog.spookysec.net/
+| Contributor   | Github    | website   | Twitter   |
+|---------------|-----------|-----------|-----------|
+|Spooky         | [sq00ky](https://github.com/Sq00ky) | [spookysec](https://blog.spookysec.net/) | [NaisuBanana](https://twitter.com/NaisuBanana) |
 
 ## License
 
