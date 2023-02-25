@@ -2,7 +2,7 @@
 
 1. Introduction
 - [x] Introduce the topic of phishing and explain the purpose of the analysis.
-- [ ] Explain smishing very briefly.
+- [x] Explain smishing very briefly.
 - [x] Provide a overview of what the reader can expect to see and learn from the post.
 - [ ] Provide a brief overview of the phishing page and how it was obtained.
 
