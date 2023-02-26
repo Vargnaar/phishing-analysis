@@ -15,7 +15,7 @@ This write-up will provide an analysis of a phishing page that was received via 
 # Initial engagement
 As has been the standard for a handful of years in Australia, a short but simple sms is sent containing a pressured premise (attempt at urgency) and a link that hosts the scammer's phishing service. 
 
-![iPhone sms smishing text message scam attempt](images/sms-initial-applepay.jpg | width=100)
+![iPhone sms smishing text message scam attempt](images/sms-initial-applepay.jpg)
 Alt-H6 *Apple pay suspension SMS*
 
 At the time of writing this analysis, the phone number used by the scam is "disconnected". Quick online searches for the number come up short for information regarding the origin.
