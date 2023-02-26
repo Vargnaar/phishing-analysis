@@ -4,7 +4,7 @@
 - [x] Introduce the topic of phishing and explain the purpose of the analysis.
 - [x] Explain smishing very briefly.
 - [x] Provide a overview of what the reader can expect to see and learn from the post.
-- [ ] Provide a brief overview of the phishing page and how it was obtained.
+- [-] Provide a brief overview of the phishing page and how it was obtained.
 
 2. Analysis of the HTML code
 - [ ] Provide a detailed analysis of the HTML code of the phishing page, including any suspicious or malicious elements found.
@@ -22,5 +22,8 @@
 6. Conclusion
 - [ ] Summarize the key findings of the analysis and emphasize the importance of staying vigilant against phishing/smishing attacks.
 
-7. References
+7. Lessons Learned
+- [ ] Provide links or information on anything relevant to the campaign that wasn't previously understood.
+
+8. References
 - [ ] Provide a list of any references used in the analysis, including any online resources, tools, or research papers.

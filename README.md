@@ -10,6 +10,7 @@ This repository contains the following:
 - `writeups/` directory: This directory contains write-ups of smishing and phishing campaigns that I've received, along with any technical analysis I've done.
 - `contributions/` directory: Submissions from others.
 - `special thanks`: This is a list of smarty pants' that have helped with my work here.
+- `tools`: Potentially a list of links to tools and resources that are used frequently, if they aren't common and end up frequently used.
 
 ## Contributing
 
@@ -20,6 +21,12 @@ I welcome contributions to this repository if you've some interesting insight in
 | Contributor   | Github    | website   | Twitter   |
 |---------------|-----------|-----------|-----------|
 |Spooky         | [sq00ky](https://github.com/Sq00ky) | [spookysec](https://blog.spookysec.net/) | [NaisuBanana](https://twitter.com/NaisuBanana) |
+
+
+## Tools and Resources
+| Tool Name | Link | Creator |
+|---|---|---|
+|LeetLinked |[github repo](https://github.com/Sq00ky/LeetLinked) | [sq00ky](https://github.com/Sq00ky)
 
 ## License
 
