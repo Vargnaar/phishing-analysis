@@ -1,4 +1,4 @@
-# # Smishing and Phishing Campaign Analysis
+# Smishing and Phishing Campaign Analysis
 This is where I store write-ups and technical analysis on smishing and phishing campaigns that I receive.
 
 #### DISCLAIMER!
@@ -26,7 +26,8 @@ I welcome contributions to this repository if you've some interesting insight in
 ## Tools and Resources
 | Tool Name | Link | Creator |
 |---|---|---|
-|LeetLinked |[github repo](https://github.com/Sq00ky/LeetLinked) | [sq00ky](https://github.com/Sq00ky)
+|Whois | [Who.is](https://who.is/) |N/A |
+
 
 ## License
 
