@@ -9,12 +9,13 @@ This repository contains the following:
 
 - `writeups/` directory: This directory contains write-ups of smishing and phishing campaigns that I've received, along with any technical analysis I've done.
 - `contributions/` directory: Submissions from others.
-- `special thanks`: This is a list of smarty pants' that have helped with my work here.
-- `tools`: Potentially a list of links to tools and resources that are used frequently, if they aren't common and end up frequently used.
+- `special thanks` list: This is a list of smarty pants' that have helped with my work here. 
+- `tools` list: Potentially a list of links to tools and resources that are used frequently, if they aren't common and end up frequently used.
 
 ## Contributing
 
-I welcome contributions to this repository if you've some interesting insight into the analysis performed herin. If I've missed something or you know more about a given thing, please submit a pull request.
+If you've performed analysis on similar phishing scams and would like to submit them here, please reach out. 
+`comming soon`: Templates
 
 ## Special Thanks
 
@@ -22,11 +23,21 @@ I welcome contributions to this repository if you've some interesting insight in
 |---------------|-----------|-----------|-----------|
 |Spooky         | [sq00ky](https://github.com/Sq00ky) | [spookysec](https://blog.spookysec.net/) | [NaisuBanana](https://twitter.com/NaisuBanana) |
 
+## Current write ups
+Quick access table to currently uploaded write ups.
+
+|Scam Name |Link | Date recieved|
+|---|---|---|
+|Apple Pay | [github](https://github.com/Vargnaar/phishing-analysis/tree/main/writeups/apple-id-reactive-ref)| 20-02-2023|
+|Bendigo Bank | [github](https://github.com/Vargnaar/phishing-analysis/tree/main/writeups/bendigo-bank)| 27-02-2023|
 
 ## Tools and Resources
 | Tool Name | Link | Creator |
 |---|---|---|
 |Whois | [Who.is](https://who.is/) |N/A |
+|Burpsuite Community | [Portswigger.net](https://portswigger.net/burp/communitydownload)| Portswigger |
+|Virus Total | [virustotal.com](https://virustotal.com)| N/A|
+
 
 
 ## License
